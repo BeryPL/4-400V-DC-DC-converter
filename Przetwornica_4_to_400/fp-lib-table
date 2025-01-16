@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Przetwornica_4_to_400")(type "KiCad")(uri "${KIPRJMOD}/FootPrinty/Przetwornica_4_to_400.pretty")(options "")(descr ""))
+)
